@@ -36,5 +36,5 @@ let course = "React - The Complete Guide";
 let union: string | number = "Hello World";
 union = 123456;
 
-let val: string = "Yashdeep";
+let val: string = "Yashdeep Tandon";
 console.log(val);
