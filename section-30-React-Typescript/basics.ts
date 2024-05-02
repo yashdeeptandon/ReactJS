@@ -37,4 +37,4 @@ let union: string | number = "Hello World";
 union = 123456;
 
 let val: string = "Yashdeep";
-console.log(name);
+console.log(val);
