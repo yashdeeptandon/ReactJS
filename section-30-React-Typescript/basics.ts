@@ -18,14 +18,14 @@ isInstructor = true;
 
 let hobbies: string[];
 
-let person: { name: string, age: number };
+let person: { name: string; age: number };
 
 person = {
   name: "Yash",
-  age: 23
+  age: 23,
 };
 
-let people:{ name: string, age: number }[]; // array of such objects
+let people: { name: string; age: number }[]; // array of such objects
 
 // Type inference
 
@@ -35,3 +35,6 @@ let course = "React - The Complete Guide";
 
 let union: string | number = "Hello World";
 union = 123456;
+
+let val: string = "Yashdeep";
+console.log(name);
